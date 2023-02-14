@@ -11,4 +11,7 @@ Using measures- dimensions, calculated fields for different type of analysis.
 Files attached:
 
 Dataset (.csv file)
+
 Tableau File (.twbx file)
+
+Link for Tableau Dashboard (Tableau Public) : [https://public.tableau.com/app/profile/shubham1138/viz/CovidVaccinationTracker_16750169370780/GlobalVaccineTracker]
